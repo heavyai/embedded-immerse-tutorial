@@ -2,7 +2,7 @@
 
 Okay, you need a few things to start with:
 
-- An Immerse instance (and you'll need to configure a few things)
+- An Immerse instance > 5.8 (and you'll need to configure a few things)
 - An app to embed Immerse into.
 - Knowledge of the API.
 - Knowledge of HTML and JavaScript, especially how to set up an iframe. There is no requirement that Immerse is embedded into any particular type of app - React, Angular, or plain vanilla javacript are all acceptable options.
