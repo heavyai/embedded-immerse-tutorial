@@ -32,8 +32,7 @@ const ApiParts = {
   GetExposedAPI,
 };
 
-const DEFAULT_IMMERSE_URL =
-  "https://localhost.mapd.com:8002/mapd/dashboard/7988";
+const DEFAULT_IMMERSE_URL = "https://YOUR.IMMERSE.URL";
 
 function App() {
   const iframe = useRef(null);
